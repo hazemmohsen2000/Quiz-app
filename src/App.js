@@ -48,7 +48,7 @@ const App = () => {
 					</section>
 				:
 					<section className="game-intro">
-						<h1 className="game-title">Quiz App</h1>
+						<h1 className="game-title">QuizziC</h1>
 						<p className="game-text">Answer the questions and test your knowledge!</p>
 
 						{showNoQuestionsError &&
